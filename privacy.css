@@ -14,10 +14,10 @@
   --space-2: 8px;
   --space-5: 20px;
   --space-card-gap: 12px;
-  --space-card-padding: 18px;
-  --space-screen-padding-top: 14px;
-  --space-screen-padding-x: 22px;
-  --space-screen-stack-gap: 16px;
+  --space-card-padding: 14px;
+  --space-screen-padding-top: 10px;
+  --space-screen-padding-x: 16px;
+  --space-screen-stack-gap: 12px;
   --type-body-long-line-height: 1.45;
   --type-body-long-size: 15px;
   --type-body-long-weight: 500;
@@ -25,10 +25,10 @@
   --type-caption-small-size: 13px;
   --type-caption-small-weight: 600;
   --type-heading-card-line-height: 1.2;
-  --type-heading-card-size: 20px;
+  --type-heading-card-size: 18px;
   --type-heading-card-weight: 800;
   --type-heading-screen-wrap-line-height: 1.2;
-  --type-heading-screen-wrap-size: 26px;
+  --type-heading-screen-wrap-size: 24px;
   --type-heading-screen-wrap-weight: 800;
   color-scheme: light;
 }
